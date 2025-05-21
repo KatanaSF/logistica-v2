@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import plotly.express as plt
+import plotly.express as px
 
 st.set_page_config(page_title="Análisis Logístico Profesional", layout="wide")
 
